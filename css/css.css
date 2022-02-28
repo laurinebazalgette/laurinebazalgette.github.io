@@ -178,7 +178,7 @@ h3{
 .stage{
 	width: 50%;
 	margin: 5px;
-	background-image: url("../document/fondclair.png");
+	background-image: url("../document/fond.JPG");
 	background-size: 100%;
 	border-radius: 10px;
 	padding: 10px;
@@ -198,7 +198,7 @@ h3{
 .alternance{
 	margin: 5px;
 	padding: 10px;
-	background-image: url("../document/fondclair2.png");
+	background-image: url("../document/fond.JPG");
 	background-size: 50%;
 	border-radius: 10px;
 
