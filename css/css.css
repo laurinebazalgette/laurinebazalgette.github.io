@@ -259,3 +259,42 @@ video{
 	margin-top: 5px;
 	margin-bottom: 5px;
 }
+
+
+.experiences{
+	display: flex;
+}
+
+.exp{
+	width: 50%;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	margin: 5px;
+	margin-top: 10px;
+	padding: 15px;
+	border: 1px solid #ABA078;
+	border-radius: 10px;
+}
+
+.imgexp{
+	width: 80%;
+	display: inline-block;
+}
+
+.imgexperso{
+	text-align: center;
+	align-self: flex-end;
+}
+
+.textexp, .soustitreexp{
+	margin-top: 5px;
+}
+
+.soustitreexp{
+	color: #ABA078;
+}
+
+.titrexp{
+	color: #7C7350;
+}
